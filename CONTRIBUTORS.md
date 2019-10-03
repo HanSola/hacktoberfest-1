@@ -422,3 +422,8 @@
 - Place: City, State, Country
 - Bio: Going to be programmer
 - GitHub: [burakuccc](https://github.com/burakuccc)
+
+#### Name: [Stephen Sola](https://github.com/HanSola)
+- Place: Dallas, TX, USA
+- Bio: Aerospace Engineer
+- GitHub: [hansola](https://github.com/HanSola)
